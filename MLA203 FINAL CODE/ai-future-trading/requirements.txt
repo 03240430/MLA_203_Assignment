@@ -1,0 +1,8 @@
+flask
+python-dotenv
+python-binance==1.0.16
+openai
+pandas
+matplotlib
+numpy
+requests

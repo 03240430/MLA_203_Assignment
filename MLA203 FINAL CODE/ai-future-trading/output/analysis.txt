@@ -1,0 +1,8 @@
+Symbol: BTCUSDT
+Last close: 92681.70
+RSI: 46.76
+MACD hist: 25.121611
+
+
+Recommendation:
+OpenAI key not configured.

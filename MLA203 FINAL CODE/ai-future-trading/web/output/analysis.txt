@@ -1,0 +1,6 @@
+Symbol: BTCUSDT
+Last Close: 90775.60
+RSI: 74.01
+MACD Histogram: 2.347195
+
+RSI near neutral, MACD slightly positive. Market indecisive — wait for a clearer trend.
